@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoffeeLab_ViewBinding</string>
+    <string name="textName">Name</string>
+    <string name="toppingsText">Toppings</string>
+    <string name="whippedCreamText">Whipped Cream</string>
+    <string name="chocolateText">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="minus">-</string>
+    <string name="zero">1</string>
+    <string name="plus">+</string>
+    <string name="summary">Order Summary</string>
+    <string name="toast_message1">You cannot place an order for less than one cup!</string>
+    <string name="toast_message2">You cannot place an order for more than 10 cups!</string>
+    <string name="zero_dollars">$0</string>
+    <string name="order">Order</string>
+</resources>
